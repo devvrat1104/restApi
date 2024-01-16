@@ -1,8 +1,8 @@
 {
-    "name": "firstapp",
+    "name": "rest-api",
     "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
+    "description": "learning rest api",
+    "main": "app.js",
     "scripts": {
         "start": "nodemon index.js"
     },
