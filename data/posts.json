@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Introduction to Dummy Data",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla gravida, purus eget dapibus fermentum, felis ipsum euismod elit, id dictum quam tortor id odio. Sed consectetur, libero a congue aliquet, justo arcu facilisis metus, a luctus risus purus a justo.",
+    "author": "John Doe",
+    "id": "e1fe88df-29f3-4c59-bc94-47d8f34080af",
+    "timestamp": "2023-11-29T13:17:04+05:30"
+  },
+  {
+    "title": "Best Practices for Using Dummy Data",
+    "content": "Quisque pharetra mauris non mi cursus, in vestibulum leo feugiat. Integer fermentum tellus nec odio cursus, nec egestas nulla aliquet. Nam venenatis neque eget congue dignissim. Vivamus ut turpis id augue bibendum tincidunt.",
+    "author": "Robert Johnson",
+    "id": "6671d359-9076-45b4-b799-b8b125e5951e",
+    "timestamp": "2023-11-29T13:48:37+05:30"
+  },
+  {
+    "title": "Hello World",
+    "content": "ksjfnksjnskdflsdkflsd",
+    "author": "ksdjfbksdjf",
+    "id": "2e1484a1-9a53-4881-861b-94f3697716d3",
+    "timestamp": "2023-11-29T17:30:19+05:30"
+  },
+  {
+    "title": "Dummy",
+    "content": "ksjfnksjnskdflsdkflsd",
+    "author": "ksdjfbksdjf",
+    "id": "0def1b92-6958-4d47-977d-e41e3cdcc2d3",
+    "timestamp": "2023-11-29T17:39:38+05:30"
+  },
+  {
+    "title": "'Hello World',",
+    "content": "'ksjfnksjnskdflsdkflsd'",
+    "id": "e6345f0f-99a2-4edc-b5d7-31519413d053",
+    "authorId": "a4053357-3a97-4fb2-910f-222994e9ff8d",
+    "timestamp": "2023-11-29T17:50:46+05:30"
+  }
+]
